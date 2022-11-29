@@ -1,8 +1,0 @@
-HI
-Welcome all
-<<<<<<< HEAD
-This is the tool using for versioning
-
-=======
-print("Hello, World!")
->>>>>>> dev
